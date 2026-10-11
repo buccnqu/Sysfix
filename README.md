@@ -1,5 +1,5 @@
 # Sysfix
-
+[English](README.md) | [简体中文](README_ZH.md) | [繁體中文](README_ZH_TW.md)
 A lightweight command-line system repair tool for Windows. It helps diagnose and fix common network problems and system slowness.
 
 ## Features
